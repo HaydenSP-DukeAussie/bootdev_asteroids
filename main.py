@@ -1,5 +1,4 @@
-import pygame
-from constants import *
+import pygame, constants
 def main():
      print("Starting Asteroids!")
      print(f"Screen width: {constants.SCREEN_WIDTH}")
